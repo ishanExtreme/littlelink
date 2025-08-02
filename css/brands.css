@@ -631,3 +631,10 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+
+/* Resume */
+.button-resume {
+	--button-text: #ffffff;
+	background-image:linear-gradient(to bottom,#00d64b,#00c244);
+	--button-border:1px solid #FFFFFF;
+}

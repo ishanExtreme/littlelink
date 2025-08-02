@@ -221,8 +221,8 @@ a:hover {
 /* Avatar
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .avatar {
-	width: 8rem;             /* 128px */
-	height: 8rem;
+	width: 15rem;             /* 128px */
+	height: 15rem;
 	object-fit: cover;
 	background-position: center;
 	margin-bottom: var(--spacing-l);
